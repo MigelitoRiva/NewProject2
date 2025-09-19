@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: linear-gradient(180deg, #f6f8fb 0%, #e9eef7 100%);
+}
+
+img {
+  border: 5px solid red;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px 0;
+}
